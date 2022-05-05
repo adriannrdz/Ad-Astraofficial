@@ -1,0 +1,44 @@
+{"contenido":[
+        {"tag": "metales",
+            "patrones":["aluminio", "bario", "berilio", "bismuto", "cadmio", "calcio", "cerio", "cromo", "cobalto", "cobre", "oro",
+                "iridio", "hierro", "plomo", "litio", "magnesio", "manganeso", "mercurio", "molibdeno", "níquel", "osmio", "paladio",
+                "platino", "potasio", "radio", "rodio", "plata", "sodio", "tantalio", "talio", "torio", "estaño", "titanio", "volframio",
+                "uranio", "vanadio","cinc","escandio","titanio","vanadio","cromo","manganeso","hierro","cobalto","niquel","cobre","zinc",
+                "itrio","circonio","niobio","molibdeno","tecnecio","rutenio","rodio","paladio","plata","cadmio","lantano","hafnio","tantalio",
+                "tungsteno","renio","osmio","iridio","platino","oro","mercurio","actinio","rutherfordio","dubnium","seaborgio","bohrium",
+                "hassium","meitnerio","darmstadtium","roentgenio","copernico","cerio","praseodimio","neodimio","prometeo","samario",
+                "europio","gadolinio","terbio","disprosio","holmio","erbio","tulio","iterbio","lutecio","torio","protactinio","uranio",
+                "neptunio","plutonio","americio","curio","berkelio","californio","einstenio","fermio","mendelevio","nobelio","lawrencium"],
+            "respuesta":["metal"]            
+        },
+        {"tag":"no metales",
+            "patrones":["carbon","nitrogeno","fosforo","azufre","selenio","fluor","cloro","bromo","yodo","astato","tennessine" ],
+            "respuesta":["no metal"]
+        
+        },
+        {"tag":"nulo",
+            "patrones":["ninguno"],
+            "respuesta":["ninguno"]
+        },
+        {"tag":"hidroxido",
+            "patrones":["hidroxido"],
+            "respuesta":["hidroxido"]
+
+        },
+        {"tag":"oxigeno",
+            "patrones":["oxigeno"],
+            "respuesta":["oxigeno"]
+
+        },
+        {"tag":"hidrogeno",
+            "patrones":["hidrogeno"],
+            "respuesta":["hidrogeno"]
+
+        },
+        {"tag":"agua",
+            "patrones":["agua"],
+            "respuesta":["agua"]
+
+        }          
+    ]
+}
